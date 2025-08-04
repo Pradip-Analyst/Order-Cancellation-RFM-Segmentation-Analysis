@@ -47,5 +47,5 @@ This project investigates customer order behavior, cancellation reasons, and del
 
 ---
 
-## 📂 Suggested Repository Structure
+
 
