@@ -42,7 +42,7 @@ This project investigates customer order behavior, cancellation reasons, and del
 | Tool      | Usage                                 |
 |-----------|----------------------------------------|
 | Excel     | Cleaning, formatting, pivoting         |
-| Power BI  | Dashboard support           |
+| Excel dashboard   | Dashboard support           |
 | Python    |  Automating RFM scoring      |
 
 ---
